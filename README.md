@@ -1,4 +1,4 @@
-# 国原萌铁
+# 机原萌铁
 # MoeRailwayOfCR
 一个关于国铁的Fabric Mod
 
