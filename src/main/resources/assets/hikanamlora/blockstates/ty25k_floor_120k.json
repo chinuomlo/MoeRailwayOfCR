@@ -1,0 +1,20 @@
+{
+    "variants": {
+      "facing=east": {
+        "model": "hikanamlora:block/25k_floor_120",
+        "y": 180
+      },
+      "facing=north": {
+        "model": "hikanamlora:block/25k_floor_120",
+        "y": 90
+      },
+      "facing=south": {
+        "model": "hikanamlora:block/25k_floor_120",
+        "y": 270
+      },
+      "facing=west": {
+        "model": "hikanamlora:block/25k_floor_120",
+        "y": 0
+      }
+    }
+  }

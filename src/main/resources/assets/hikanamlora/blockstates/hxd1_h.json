@@ -1,0 +1,20 @@
+{
+    "variants": {
+      "facing=east": {
+        "model": "hikanamlora:block/hxd1_h",
+        "y": 180
+      },
+      "facing=north": {
+        "model": "hikanamlora:block/hxd1_h",
+        "y": 90
+      },
+      "facing=south": {
+        "model": "hikanamlora:block/hxd1_h",
+        "y": 270
+      },
+      "facing=west": {
+        "model": "hikanamlora:block/hxd1_h",
+        "y": 0
+      }
+    }
+  }

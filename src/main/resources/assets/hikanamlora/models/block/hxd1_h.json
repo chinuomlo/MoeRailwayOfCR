@@ -1,0 +1,11 @@
+{ 
+  "loader": "forge:obj",
+  "model": "hikanamlora:models/block/hxd1_h.obj",
+  "flip-v": true,
+  "textures": {
+		"0": "hikanamlora:block/blue",
+    "1": "hikanamlora:block/hx",
+    "2": "hikanamlora:block/whiteyellow",
+    "3": "hikanamlora:block/white"
+	}
+  }
