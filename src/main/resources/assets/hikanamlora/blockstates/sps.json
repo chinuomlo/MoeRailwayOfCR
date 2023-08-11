@@ -1,0 +1,71 @@
+{
+    "variants": {
+      "facing=east,charged=1": {
+        "model": "hikanamlora:block/shuipai_k",
+        "y": 180
+      },
+      "facing=north,charged=1": {
+        "model": "hikanamlora:block/shuipai_k",
+        "y": 90
+      },
+      "facing=south,charged=1": {
+        "model": "hikanamlora:block/shuipai_k",
+        "y": 270
+      },
+      "facing=west,charged=1": {
+        "model": "hikanamlora:block/shuipai_k",
+        "y": 0
+      },
+
+      "facing=east,charged=2": {
+        "model": "hikanamlora:block/shuipai_t",
+        "y": 180
+      },
+      "facing=north,charged=2": {
+        "model": "hikanamlora:block/shuipai_t",
+        "y": 90
+      },
+      "facing=south,charged=2": {
+        "model": "hikanamlora:block/shuipai_t",
+        "y": 270
+      },
+      "facing=west,charged=2": {
+        "model": "hikanamlora:block/shuipai_t",
+        "y": 0
+      },
+
+      "facing=east,charged=3": {
+        "model": "hikanamlora:block/shuipai_g",
+        "y": 180
+      },
+      "facing=north,charged=3": {
+        "model": "hikanamlora:block/shuipai_g",
+        "y": 90
+      },
+      "facing=south,charged=3": {
+        "model": "hikanamlora:block/shuipai_g",
+        "y": 270
+      },
+      "facing=west,charged=3": {
+        "model": "hikanamlora:block/shuipai_g",
+        "y": 0
+      },
+
+      "facing=east,charged=4": {
+        "model": "hikanamlora:block/shuipai_k",
+        "y": 180
+      },
+      "facing=north,charged=4": {
+        "model": "hikanamlora:block/shuipai_k",
+        "y": 90
+      },
+      "facing=south,charged=4": {
+        "model": "hikanamlora:block/shuipai_k",
+        "y": 270
+      },
+      "facing=west,charged=4": {
+        "model": "hikanamlora:block/shuipai_k",
+        "y": 0
+      }
+    }
+  }

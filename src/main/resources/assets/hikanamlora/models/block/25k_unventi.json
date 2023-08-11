@@ -1,0 +1,104 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [256, 768],
+	"textures": {
+		"3": "hikanamlora:block/25g_ps_s",
+		"6": "hikanamlora:block/25k_ps_r",
+		"7": "hikanamlora:block/25k_ps_l",
+		"8": "hikanamlora:block/25k_db_up",
+		"particle": "hikanamlora:block/25g_ps_s"
+	},
+	"elements": [
+		{
+			"name": "左配属信息",
+			"from": [15, -16, -16],
+			"to": [16, 32, 0],
+			"faces": {
+				"north": {"uv": [0, 0, 0.5, 0.16667], "texture": "#8"},
+				"east": {"uv": [0, 0, 8, 0.16667], "texture": "#8"},
+				"south": {"uv": [0, 0, 0.5, 0.16667], "texture": "#8"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#7"},
+				"up": {"uv": [0, 0, 0.5, 0.16667], "texture": "#8"},
+				"down": {"uv": [0, 0, 0.5, 24], "texture": "#missing"}
+			}
+		},
+		{
+			"name": "右配属信息",
+			"from": [15, -16, 16],
+			"to": [16, 32, 32],
+			"faces": {
+				"north": {"uv": [0, 0, 0.5, 0.16667], "texture": "#8"},
+				"east": {"uv": [0, 0, 8, 0.16667], "texture": "#8"},
+				"south": {"uv": [0, 0, 0.5, 0.16667], "texture": "#8"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#6"},
+				"up": {"uv": [0, 0, 0.5, 0.16667], "texture": "#8"},
+				"down": {"uv": [0, 0, 0.5, 24], "texture": "#missing"}
+			}
+		},
+		{
+			"name": "顶板",
+			"from": [15, 17, 0],
+			"to": [16, 32, 16],
+			"faces": {
+				"north": {"uv": [8.5, 0, 9, 7.5], "texture": "#missing"},
+				"east": {"uv": [0, 0, 8, 7.5], "texture": "#8"},
+				"south": {"uv": [8.5, 7.5, 9, 15], "texture": "#missing"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#8"},
+				"up": {"uv": [8.5, 8, 8, 0], "texture": "#8"},
+				"down": {"uv": [8.5, 8, 8, 16], "texture": "#missing"}
+			}
+		},
+		{
+			"name": "底板",
+			"from": [8, -16, 0],
+			"to": [16, -15, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 4, 1.5], "texture": "#3"},
+				"east": {"uv": [0, 7.27867, 16, 0], "texture": "#3"},
+				"south": {"uv": [0, 0, 4, 1.5], "texture": "#3"},
+				"west": {"uv": [0, 0, 8, 1.5], "texture": "#3"},
+				"up": {"uv": [0, 0, 4, 0.16667], "texture": "#3"},
+				"down": {"uv": [0, 0, 4, 0.16667], "texture": "#3"}
+			}
+		},
+		{
+			"name": "顶风挡",
+			"from": [8, 17, 0],
+			"to": [15, 18, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 3.5, 1.5], "texture": "#3"},
+				"east": {"uv": [0, 7.27867, 16, 0], "texture": "#3"},
+				"south": {"uv": [0, 0, 3.5, 1.5], "texture": "#3"},
+				"west": {"uv": [0, 0, 8, 1.5], "texture": "#3"},
+				"up": {"uv": [0.128, 0.064, 12.576, 10.80533], "texture": "#3"},
+				"down": {"uv": [0, 0, 3.5, 0.16667], "texture": "#3"}
+			}
+		},
+		{
+			"name": "左侧",
+			"from": [8, -15, -1],
+			"to": [15, 17, 0],
+			"faces": {
+				"north": {"uv": [0, 0, 3.5, 1.16667], "texture": "#3"},
+				"east": {"uv": [0, 9.77467, 13.3, 8.12133], "texture": "#3"},
+				"south": {"uv": [0, 0, 3.5, 0.16667], "texture": "#3"},
+				"west": {"uv": [0, 0, 0.5, 0.16667], "texture": "#3"},
+				"up": {"uv": [0, 0, 3.5, 1.5], "texture": "#3"},
+				"down": {"uv": [0, 0, 3.5, 1.5], "texture": "#3"}
+			}
+		},
+		{
+			"name": "右侧",
+			"from": [8, -15, 16],
+			"to": [15, 17, 17],
+			"faces": {
+				"north": {"uv": [0, 0, 3.5, 0.16667], "texture": "#3"},
+				"east": {"uv": [0, 9.77467, 13.3, 8.12133], "texture": "#3"},
+				"south": {"uv": [0, 4.98133, 16, 11.904], "texture": "#3"},
+				"west": {"uv": [2.528, 0, 13.908, 14.18667], "texture": "#3"},
+				"up": {"uv": [0, 0, 3.5, 1.5], "texture": "#3"},
+				"down": {"uv": [0, 0, 3.5, 1.5], "texture": "#3"}
+			}
+		}
+	]
+}

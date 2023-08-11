@@ -1,0 +1,8 @@
+{
+    "variants": {
+      "facing=north": { "model": "hikanamlora:block/dw_yz19t_11_1_hikana_mlo_block_2_n"},
+      "facing=east":  { "model": "hikanamlora:block/dw_yz19t_11_1_hikana_mlo_block_2_e"},
+      "facing=south": { "model": "hikanamlora:block/dw_yz19t_11_1_hikana_mlo_block_2_s"},
+      "facing=west":  { "model": "hikanamlora:block/dw_yz19t_11_1_hikana_mlo_block_2"}
+    }
+}

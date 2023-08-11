@@ -1,0 +1,22 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [500, 1500],
+	"textures": {
+		"0": "hikanamlora:block/dw_yz19t_11_1_hikana_mlo_block_3",
+		"particle": "hikanamlora:block/dw_yz19t_11_1_hikana_mlo_block_3"
+	},
+	"elements": [
+		{
+			"from": [-16, 0, 0],
+			"to": [32, 16, 1],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 0.032, 0.512], "texture": "#missing"},
+				"south": {"uv": [0, 0, 16, 15.66667], "texture": "#0"},
+				"west": {"uv": [0, 0, 0.032, 0.512], "texture": "#missing"},
+				"up": {"uv": [0, 0, 1.536, 0.01067], "texture": "#missing"},
+				"down": {"uv": [0, 0, 1.536, 0.01067], "texture": "#missing"}
+			}
+		}
+	]
+}

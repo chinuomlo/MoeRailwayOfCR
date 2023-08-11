@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: net.minecraft.client.Main
+Loom-Jar-Processor-Hash: 58c6b9542ff0137a5e7535e9e0fc6b564428d77d04b4705
+ ec969d78c4e553a7a
+

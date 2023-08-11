@@ -1,0 +1,20 @@
+{
+    "variants": {
+      "facing=east": {
+        "model": "hikanamlora:block/sui",
+        "y": 180
+      },
+      "facing=north": {
+        "model": "hikanamlora:block/sui",
+        "y": 90
+      },
+      "facing=south": {
+        "model": "hikanamlora:block/sui",
+        "y": 270
+      },
+      "facing=west": {
+        "model": "hikanamlora:block/sui",
+        "y": 0
+      }
+    }
+  }

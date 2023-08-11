@@ -1,0 +1,111 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [256, 768],
+	"textures": {
+		"3": "hikanamlora:block/25g_ps_s",
+		"6": "hikanamlora:block/25k_ps_r",
+		"7": "hikanamlora:block/25k_ps_l",
+		"8": "hikanamlora:block/25k_db_up",
+		"particle": "hikanamlora:block/25g_ps_s"
+	},
+	"elements": [
+		{
+			"name": "左配属信息",
+			"from": [9.54, 1.48, 2.72],
+			"to": [9.76, 12.04, 6.24],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6.24, 0, 6.24]},
+			"faces": {
+				"north": {"uv": [0, 0, 0.5, 0.16667], "texture": "#8"},
+				"east": {"uv": [0, 0, 8, 0.16667], "texture": "#8"},
+				"south": {"uv": [0, 0, 0.5, 0.16667], "texture": "#8"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#7"},
+				"up": {"uv": [0, 0, 0.5, 0.16667], "texture": "#8"},
+				"down": {"uv": [0, 0, 0.5, 24], "texture": "#missing"}
+			}
+		},
+		{
+			"name": "右配属信息",
+			"from": [9.54, 1.48, 9.76],
+			"to": [9.76, 12.04, 13.28],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6.24, 0, 6.24]},
+			"faces": {
+				"north": {"uv": [0, 0, 0.5, 0.16667], "texture": "#8"},
+				"east": {"uv": [0, 0, 8, 0.16667], "texture": "#8"},
+				"south": {"uv": [0, 0, 0.5, 0.16667], "texture": "#8"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#6"},
+				"up": {"uv": [0, 0, 0.5, 0.16667], "texture": "#8"},
+				"down": {"uv": [0, 0, 0.5, 24], "texture": "#missing"}
+			}
+		},
+		{
+			"name": "顶板",
+			"from": [9.54, 8.74, 6.24],
+			"to": [9.76, 12.04, 9.76],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6.24, 0, 6.24]},
+			"faces": {
+				"north": {"uv": [8.5, 0, 9, 7.5], "texture": "#missing"},
+				"east": {"uv": [0, 0, 8, 7.5], "texture": "#8"},
+				"south": {"uv": [8.5, 7.5, 9, 15], "texture": "#missing"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#8"},
+				"up": {"uv": [8.5, 8, 8, 0], "texture": "#8"},
+				"down": {"uv": [8.5, 8, 8, 16], "texture": "#missing"}
+			}
+		},
+		{
+			"name": "底板",
+			"from": [8, 1.48, 6.24],
+			"to": [9.76, 1.7, 9.76],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6.24, 0, 6.24]},
+			"faces": {
+				"north": {"uv": [0, 0, 4, 1.5], "texture": "#3"},
+				"east": {"uv": [0, 7.27867, 16, 0], "texture": "#3"},
+				"south": {"uv": [0, 0, 4, 1.5], "texture": "#3"},
+				"west": {"uv": [0, 0, 8, 1.5], "texture": "#3"},
+				"up": {"uv": [0, 0, 4, 0.16667], "texture": "#3"},
+				"down": {"uv": [0, 0, 4, 0.16667], "texture": "#3"}
+			}
+		},
+		{
+			"name": "顶风挡",
+			"from": [8, 8.74, 6.24],
+			"to": [9.54, 8.96, 9.76],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6.24, 0, 6.24]},
+			"faces": {
+				"north": {"uv": [0, 0, 3.5, 1.5], "texture": "#3"},
+				"east": {"uv": [0, 7.27867, 16, 0], "texture": "#3"},
+				"south": {"uv": [0, 0, 3.5, 1.5], "texture": "#3"},
+				"west": {"uv": [0, 0, 8, 1.5], "texture": "#3"},
+				"up": {"uv": [0.128, 0.064, 12.576, 10.80533], "texture": "#3"},
+				"down": {"uv": [0, 0, 3.5, 0.16667], "texture": "#3"}
+			}
+		},
+		{
+			"name": "左侧",
+			"from": [8, 1.7, 6.02],
+			"to": [9.54, 8.74, 6.24],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6.24, 0, 6.24]},
+			"faces": {
+				"north": {"uv": [0, 0, 3.5, 1.16667], "texture": "#3"},
+				"east": {"uv": [0, 9.77467, 13.3, 8.12133], "texture": "#3"},
+				"south": {"uv": [0, 0, 3.5, 0.16667], "texture": "#3"},
+				"west": {"uv": [0, 0, 0.5, 0.16667], "texture": "#3"},
+				"up": {"uv": [0, 0, 3.5, 1.5], "texture": "#3"},
+				"down": {"uv": [0, 0, 3.5, 1.5], "texture": "#3"}
+			}
+		},
+		{
+			"name": "右侧",
+			"from": [8, 1.7, 9.76],
+			"to": [9.54, 8.74, 9.98],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6.24, 0, 6.24]},
+			"faces": {
+				"north": {"uv": [0, 0, 3.5, 0.16667], "texture": "#3"},
+				"east": {"uv": [0, 9.77467, 13.3, 8.12133], "texture": "#3"},
+				"south": {"uv": [0, 4.98133, 16, 11.904], "texture": "#3"},
+				"west": {"uv": [2.528, 0, 13.908, 14.18667], "texture": "#3"},
+				"up": {"uv": [0, 0, 3.5, 1.5], "texture": "#3"},
+				"down": {"uv": [0, 0, 3.5, 1.5], "texture": "#3"}
+			}
+		}
+	]
+}

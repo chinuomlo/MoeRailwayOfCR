@@ -1,0 +1,84 @@
+{
+    "itemGroup.hikanamlora.ys25g":"原色25G_Hikana Mlo Rail",
+    "item.hikanamlora.ys25g_debian":"原色25G地板",
+    "block.hikanamlora.ys25g_debian":"原色25G地板",
+    "item.hikanamlora.ys25g_debian_speed":"原色25G地板-120km/h标志",
+    "block.hikanamlora.ys25g_debian_speed":"原色25G地板-120km/h标志",
+    "item.hikanamlora.ys25g_dw":"原色25G下部外板",
+    "block.hikanamlora.ys25g_dw":"原色25G下部外板",
+    "item.hikanamlora.ys25g_md":"原色25G中部外板",
+    "block.hikanamlora.ys25g_md":"原色25G中部外板",
+    "item.hikanamlora.ys25g_up":"原色25G上部外板",
+    "block.hikanamlora.ys25g_up":"原色25G上部外板",
+    "item.hikanamlora.ys25g_windows":"原色25G中窗",
+    "block.hikanamlora.ys25g_windows":"原色25G中窗",
+    "item.hikanamlora.ys25g_windows_l":"原色25G左窗",
+    "block.hikanamlora.ys25g_windows_l":"原色25G左窗",
+    "item.hikanamlora.ys25g_windows_r":"原色25G右窗",
+    "block.hikanamlora.ys25g_windows_r":"原色25G右窗",
+    "item.hikanamlora.ys25g_windows_s":"原色25G小窗",
+    "block.hikanamlora.ys25g_windows_s":"原色25G小窗",
+    "item.hikanamlora.ys_top":"25G/K/T车棚",
+    "block.hikanamlora.ys_top":"25G/K/T车棚",
+    "item.hikanamlora.ys_top_c":"25G/K/T中央车棚",
+    "block.hikanamlora.ys_top_c":"25G/K/T中央车棚",
+    "item.hikanamlora.ys25g_unventi":"原色25G风挡",
+    "block.hikanamlora.ys25g_unventi":"原色25G风挡",
+    "item.hikanamlora.ys25g_door":"原色25G车厢门",
+    "block.hikanamlora.ys25g_door":"原色25G车厢门",
+    "item.hikanamlora.trainnumblock":"车厢标号单元",
+    "block.hikanamlora.trainnumblock":"车厢标号单元",
+    "itemGroup.hikanamlora.ys25k":"原色25K_Hikana Mlo Rail",
+
+    "item.hikanamlora.ty25k_cr_window_open":"原色25K中窗",
+    "block.hikanamlora.ty25k_cr_window_open":"原色25K中窗",
+
+    "item.hikanamlora.ty25k_cr_window":"原色25K右窗",
+    "block.hikanamlora.ty25k_cr_window":"原色25K右窗",
+
+    "item.hikanamlora.ty25k_cr_windowl":"原色25K左窗",
+    "block.hikanamlora.ty25k_cr_windowl":"原色25K左窗",
+
+    "item.hikanamlora.ty25k_cr_window_small":"原色25K小窗",
+    "block.hikanamlora.ty25k_cr_window_small":"原色25K小窗",
+
+    "item.hikanamlora.ty25k_cr_up":"原色25K上挡板",
+    "block.hikanamlora.ty25k_cr_up":"原色25K上挡板",
+
+    "item.hikanamlora.ty25k_cr_md":"原色25K中挡板",
+    "block.hikanamlora.ty25k_cr_md":"原色25K中挡板",
+
+    "item.hikanamlora.ty25k_cr_dw":"原色25K下挡板（中）",
+    "block.hikanamlora.ty25k_cr_dw":"原色25K下挡板（中）",
+
+    "item.hikanamlora.ty25k_cr_dw_b":"原色25K下挡板（边）",
+    "block.hikanamlora.ty25k_cr_dw_b":"原色25K下挡板（边）",
+
+    "item.hikanamlora.ty25k_cr_dw_b_l":"原色25K下挡板（左边中变边）",
+    "block.hikanamlora.ty25k_cr_dw_b_l":"原色25K下挡板（左边中变边）",
+
+    "item.hikanamlora.ty25k_cr_dw_b_r":"原色25K下挡板（右边中变边）",
+    "block.hikanamlora.ty25k_cr_dw_b_r":"原色25K下挡板（右边中变边）",
+
+    "item.hikanamlora.ty25k_floor":"原色25K地板",
+    "block.hikanamlora.ty25k_floor":"原色25K地板",
+
+    "item.hikanamlora.ty25k_floor_120k":"原色25K地板——140km/h标志",
+    "block.hikanamlora.ty25k_floor_120k":"原色25K地板——140km/h标志",
+
+    "item.hikanamlora.ty25k_unventi":"原色25K风挡",
+    "block.hikanamlora.ty25k_unventi":"原色25K风挡",
+    
+    "itemGroup.hikanamlora.other":"其他装饰_Hikana Mlo Rail",
+    "item.hikanamlora.sidc1":"站牌（1）",
+    "block.hikanamlora.sidc1":"站牌（1）",
+
+    "item.hikanamlora.sidc2":"站牌（2）",
+    "block.hikanamlora.sidc2":"站牌（2）",
+    "item.hikanamlora.tsp":"机车停车位置",
+    "block.hikanamlora.tsp":"机车停车位置",
+    "item.hikanamlora.crun1":"绿提示牌",
+    "block.hikanamlora.crun1":"绿提示牌",
+    "item.hikanamlora.sui":"隧道名牌",
+    "block.hikanamlora.sui":"隧道名牌"
+}
